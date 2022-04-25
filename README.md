@@ -1,5 +1,16 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=kyeongtae&fontAlign=74&fontAlignY=40&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=kyeongtae&fontSize=50&animation=fadeIn&fontAlignY=38)
 
+
+<div align="center">
+
+  
+  <p>Hello, there!<p>
+  <p>I'm a FE developer in React, JavaScript.<p>
+  <br>
+  
+
+  ### 💪🏻Tech Stack
+  
 <p>  
   
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -18,38 +29,32 @@
 
 </p>
 <p>  
-  
+ 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </p>
+<br>
+<p>  
 
+</p>
+<br>
 <p>  
   
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 </p>
+<br>
+  
+  ### 🅶 Stats
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyeongbong&&show_icons=true&theme=graywhite)
 
+</div>
 
-![아이디's github stats](https://github-readme-stats.vercel.app/api?username=kyeongbong&show_icons=true)
-
-
-<!--
-**kyeongbong/kyeongbong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
