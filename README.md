@@ -2,11 +2,6 @@
 
 
 <div align="center">
-
-  
-  <p>Hello, there!<p>
-  <p>I'm a FE developer in React, JavaScript.<p>
-  <br>
   
 
   ### 💪🏻Tech Stack
