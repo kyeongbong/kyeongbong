@@ -47,9 +47,7 @@
   
   ### 🅶 Stats
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyeongbong&&show_icons=true&theme=graywhite)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyeongbong&layout=compact&card_width=445)](https://github.com/kyeongbong)
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kyeongbong&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyeongbong&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
