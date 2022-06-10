@@ -4,7 +4,7 @@
 <div align="center">
   
 
-  ### 💪🏻Tech Stack!
+  ### Stacks
   
 <p>  
   
