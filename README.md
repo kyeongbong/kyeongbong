@@ -51,4 +51,3 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyeongbong&layout=compact&card_width=445&theme=merko&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kt03170)](https://solved.ac/kt03170/)
